@@ -1,0 +1,39 @@
+FOOTER {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    gap: 50px;
+    padding-top: 400px;
+}
+
+.block2 {
+    display: flex;
+    gap: 50px;
+    line-height: 2.5;
+
+}
+
+ol {
+    padding-left: 10px;
+    color:gray;
+    list-style: none;
+}
+
+.last-footer {
+    display: flex;
+    gap: 20px;
+    margin-top: 150px;
+}
+
+.Social-media {
+    display:inline-flex;
+    gap: 30px;
+    padding-left: 400px;
+}
+
+.icon {
+    width: 30px;
+    height: 25px;
+    /* border-radius: 50%; */
+    
+}
